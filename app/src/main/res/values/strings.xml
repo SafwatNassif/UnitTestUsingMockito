@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UntiTest</string>
+    <string name="username">userName</string>
+    <string name="required">required</string>
+    <string name="email">email</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+
+    <string name="login_success">Login Successful</string>
+
+    <string name="empty_email">Please enter valid email</string>
+    <string name="containAt">email must contain @</string>
+    <string name="password_length">password length must be greater than 8 charachter\'s</string>
+    <string name="password_capetail">password must contain captial character\'s</string>
+    <string name="password_empty">please enter password</string>
+    <string name="email_empty">Please enter your mail</string>
+</resources>
